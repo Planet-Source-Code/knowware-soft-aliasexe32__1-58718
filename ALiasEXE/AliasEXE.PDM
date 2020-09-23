@@ -1,0 +1,202 @@
+[Root]
+Most Recent Package=VB6 Standard Dependacy Setup
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup\Loader.exe=Yes
+C:\WINDOWS\SYSTEM\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM\stdole2.tlb=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup\Loader.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\stdole2.tlb=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=Loader.CAB
+DepCabRun=Loader.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup
+ProjectFolder=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader
+ServerSideCab=
+File1=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup\Loader.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|LoaderDep|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup
+
+[Package|LoaderDep|Configure DAO ISAMs]
+Applicable=No
+
+[Package|LoaderDep|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|LoaderDep|Files Found]
+
+[Package|LoaderDep|Files Released]
+
+[Package|LoaderDep|Missing Dependency Information]
+
+[Package|LoaderDep|Out-of-Date Dependency Information]
+
+[Package|LoaderDep|Files Added]
+
+[Package|LoaderDep|Files Removed]
+
+[Package|LoaderDep|Files In Project]
+D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup\Loader.exe=Yes
+C:\WINDOWS\SYSTEM\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM\stdole2.tlb=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+
+[Package|LoaderDep|Configure Registry Files]
+Applicable=
+
+[Package|LoaderDep|Configure Remote Servers]
+Applicable=
+
+[Package|LoaderDep|Install Locations]
+D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup\Loader.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\stdole2.tlb=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+
+[Package|LoaderDep|Configure Shared Files]
+Applicable=
+
+[Package|LoaderDep|DepFile]
+DepCabFile=Loader.CAB
+DepCabRun=Loader.INF
+
+[Package|LoaderDep|Package]
+PackageFolder=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup
+ProjectFolder=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader
+ServerSideCab=
+File1=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup\Loader.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|VB6 Standard Dependacy Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup
+
+[Package|VB6 Standard Dependacy Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|VB6 Standard Dependacy Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|VB6 Standard Dependacy Setup|Files Found]
+
+[Package|VB6 Standard Dependacy Setup|Files Released]
+
+[Package|VB6 Standard Dependacy Setup|Missing Dependency Information]
+
+[Package|VB6 Standard Dependacy Setup|Out-of-Date Dependency Information]
+
+[Package|VB6 Standard Dependacy Setup|Files Added]
+
+[Package|VB6 Standard Dependacy Setup|Files Removed]
+d:\microsoft visual studio\vb98\projects\ems\loader\setup\loader.exe=
+
+[Package|VB6 Standard Dependacy Setup|Files In Project]
+D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup\Loader.exe=No
+C:\WINDOWS\SYSTEM\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM\stdole2.tlb=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Setup1.exe=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|VB6 Standard Dependacy Setup|Configure Registry Files]
+Applicable=No
+
+[Package|VB6 Standard Dependacy Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|VB6 Standard Dependacy Setup|Install Locations]
+D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup\Loader.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\stdole2.tlb=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+
+[Package|VB6 Standard Dependacy Setup|Configure Shared Files]
+Applicable=No
+
+[Package|VB6 Standard Dependacy Setup|DepFile]
+DepCabFile=Loader.CAB
+DepCabRun=Loader.INF
+
+[Package|VB6 Standard Dependacy Setup|Distribution]
+Type=single
+Size=
+Title=VB6 Dependancy File Installation
+
+[Package|VB6 Standard Dependacy Setup|Package]
+PackageFolder=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup
+ProjectFolder=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader
+ServerSideCab=
+File1=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup\setup.exe
+File2=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup\Setup.Lst
+File3=D:\Microsoft Visual Studio\VB98\Projects\EMS\Loader\Setup\Loader.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
